@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\octir\\Escritorio\\repo visual studio\\simulacro1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE5B737-8000-4A3E-B511-AF3599832D05}|simulacro1\\simulacro1.csproj|c:\\users\\octir\\escritorio\\repo visual studio\\simulacro1\\simulacro1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE5B737-8000-4A3E-B511-AF3599832D05}|simulacro1\\simulacro1.csproj|solutionrelative:simulacro1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\octir\\Escritorio\\repo visual studio\\simulacro1\\simulacro1\\Program.cs",
+              "RelativeDocumentMoniker": "simulacro1\\Program.cs",
+              "ToolTip": "C:\\Users\\octir\\Escritorio\\repo visual studio\\simulacro1\\simulacro1\\Program.cs",
+              "RelativeToolTip": "simulacro1\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:54:36.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\octir\Escritorio\repo visual studio\simulacro1\simulacro1\bin\Debug\simulacro1.exe.config
+C:\Users\octir\Escritorio\repo visual studio\simulacro1\simulacro1\bin\Debug\simulacro1.exe
+C:\Users\octir\Escritorio\repo visual studio\simulacro1\simulacro1\bin\Debug\simulacro1.pdb
+C:\Users\octir\Escritorio\repo visual studio\simulacro1\simulacro1\obj\Debug\simulacro1.csproj.AssemblyReference.cache
+C:\Users\octir\Escritorio\repo visual studio\simulacro1\simulacro1\obj\Debug\simulacro1.csproj.CoreCompileInputs.cache
+C:\Users\octir\Escritorio\repo visual studio\simulacro1\simulacro1\obj\Debug\simulacro1.exe
+C:\Users\octir\Escritorio\repo visual studio\simulacro1\simulacro1\obj\Debug\simulacro1.pdb
